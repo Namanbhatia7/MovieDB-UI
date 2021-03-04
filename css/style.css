@@ -14,7 +14,7 @@ h1 {
 
 #title {
     background-color: black;
-    color: yellow;
+    color: #54e346;
     min-height: 650px;
 }
 
@@ -22,7 +22,7 @@ h1 {
     width: 90%;
     background: rgb(210, 158, 19);
     margin-left: 1.5rem;
-    background: linear-gradient(45deg, rgba(210, 158, 19, 1) 27%, rgba(226, 216, 14, 1) 100%);
+    background: linear-gradient(45deg, rgb(119, 223, 78) 27%, rgba(226, 216, 14, 1) 100%);
     justify-content: center;
     padding: 0.5rem;
     margin-top: 2rem;
@@ -48,7 +48,7 @@ h1 {
 
 h1#heading {
     font-size: 4.5rem;
-    color: #e2d80e;
+    color: #54e346;
     font-weight: 700;
     font-family: "lato"
 }
@@ -125,7 +125,7 @@ section#AboutUs {
 }
 
 #AboutUs div span {
-    color: #dcc417;
+    color: #54e346;
     font-weight: 600;
 }
 
@@ -144,7 +144,7 @@ section#Collections {
     word-spacing: 9px;
     letter-spacing: 1px;
     font-size: 3.5rem;
-    color: #e2d80e;
+    color: #54e346;
     padding-top: 2rem;
 }
 
@@ -190,7 +190,7 @@ section#Services {
     word-spacing: 9px;
     letter-spacing: 1px;
     font-size: 3.5rem;
-    color: #e2d80e;
+    color: #54e346;
     padding-top: 4rem;
 }
 
@@ -204,7 +204,7 @@ section#Services {
 .fas {
     font-weight: 900;
     font-size: 4rem;
-    color: #e2d80e;
+    color: #54e346;
     background: -webkit-linear-gradient(70deg, rgba(210, 158, 19, 1) 27%, rgba(226, 216, 14, 1) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -316,7 +316,7 @@ i.fas.fa-quote-left {
 }
 
 #ContactUs i {
-    color: #d29e13;
+    color: #54e346;
     font-size: 2rem;
     margin: 3rem;
     margin-bottom: 0;
@@ -326,12 +326,12 @@ i.fas.fa-quote-left {
 #ContactUs h3 {
     font-weight: 600;
     font-size: 1.5rem;
-    color: #d29e13;
+    color: #54e346;
     padding-top: 1rem;
 }
 
 #ContactUs p {
-    color: #d29e13;
+    color: #54e346;
     font-size: 1rem;
     margin-top: 3rem;
 
@@ -343,7 +343,7 @@ i.fas.fa-quote-left {
     position: relative;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
-    color: #d4a513;
+    color: #54e346;
     font-size: 18px;
     letter-spacing: 0.5px;
     padding: 0 10px;
@@ -352,7 +352,7 @@ i.fas.fa-quote-left {
 .navbar-collapse a:after {
     content: "";
     position: absolute;
-    background-color: #d4a513;
+    background-color: #54e346;
     height: 3px;
     width: 0;
     left: 0;
@@ -361,7 +361,7 @@ i.fas.fa-quote-left {
 }
 
 .navbar-collapse a:hover {
-    color: #d4a513;
+    color: #54e346;
 }
 
 .navbar-collapse a:hover:after {
@@ -370,25 +370,25 @@ i.fas.fa-quote-left {
 
 navbar-dark .navbar-nav .nav-link:focus,
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #d4a513;
+    color: #54e346;
 }
 
 /* Button effects */
 
 .btn-primary:hover {
     background: rgba(128, 128, 128, 0);
-    border: solid 1px #d4a513;
+    border: solid 1px #54e346;
 }
 
 #Collections .btn-primary:hover {
     background: rgba(128, 128, 128, 0);
-    border: solid 1px #d4a513;
+    border: solid 1px #54e346;
 }
 
 .head:after {
     display: block;
     height: 3px;
-    background-color: #d4a513;
+    background-color: #54e346;
     content: " ";
     width: 100px;
     margin: 0 auto;
@@ -401,7 +401,7 @@ a.navbar-brand {
     display: inline-block;
     overflow: hidden;
     font-weight: 700;
-    background: #d4a513;
+    background: #54e346;
     background: linear-gradient(to right, #e2d80e, #d3a013 50%, #ffffff 50%);
     background-clip: text;
     -webkit-background-clip: text;
